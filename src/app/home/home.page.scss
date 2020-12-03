@@ -1,0 +1,41 @@
+ion-fab-button {
+  height: 70px;
+  width: 70px;
+}
+
+.cart-icon {
+  font-size: 50px;
+}
+
+.cart-length{
+  color: var(--ion-color-primary);
+  position: absolute;
+  top: 12px;
+  left: 8px;
+  font-weight: 600;
+  font-size: 1em;
+  min-width: 25px;
+  z-index: 10;
+}
+
+.poster-col{
+  height: 200px;
+  img{
+    border-radius: 5px;
+  }
+}
+
+b{
+  margin-top: 5px;
+}
+
+.swiper-slide {
+  transition: .4s all;
+}
+
+.slide-option{
+  margin-top: 75px;
+}
+
+
+
